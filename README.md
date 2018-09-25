@@ -1,0 +1,2 @@
+# PaintForKids
+This project is an interactive painter like Microsoft paint developed in C++ using CMU graphics library. Paint for kids supports also two modes of games for children to play with simple shapes after they can draw them.
